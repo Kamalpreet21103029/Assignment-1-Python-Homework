@@ -1,0 +1,7 @@
+#Assignment 1
+#By Kamalpreet Singh 	SID 21103029
+#Question 5(b)-Doing More operations on a list - B part of the Question
+Color=['Red','Green','White','Black','Pink','Yellow']
+print("Color List=",Color)
+Color[3:5]=['Purple']
+print("New List after removing Black and Pink and adding Purple=",Color)

@@ -1,0 +1,8 @@
+#Assignment 1
+#By Kamalpreet Singh 	SID 21103029
+#Question 1 - About Finding average of three numbers
+Number1=int(input("The First Number is-"))
+Number2=int(input("The Second Number is-"))
+Number3=int(input("The Third Number is-"))
+Average=(Number1+Number2+Number3)/3
+print("The average of the Three numbers is-",Average)

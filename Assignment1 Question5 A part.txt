@@ -1,0 +1,7 @@
+#Assignment 1
+#By Kamalpreet Singh 	SID 21103029
+#Question 5(a)-Doing More operations on a list- A part of the Question
+Color=['Red','Green','White','Black','Pink','Yellow']
+print("Color List=",Color)
+Color.pop(3)
+print("Color List after removing Fourth Element=",Color)

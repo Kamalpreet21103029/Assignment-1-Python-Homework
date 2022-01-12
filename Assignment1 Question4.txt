@@ -1,0 +1,7 @@
+#Assignment 1
+#By Kamalpreet Singh 	SID 21103029
+#Question 4-Creating a list of marks of 5 students and then sorting it
+Student_marks=[97,90,80,72,98]
+print("Student marks=",Student_marks)
+Student_marks.sort()
+print("List of Students Marks after Sorting=",Student_marks)

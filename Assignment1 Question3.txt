@@ -1,0 +1,6 @@
+#Assignment 1
+#By Kamalpreet Singh 	SID 21103029
+#Question 3- To make a list for students and their information
+print("Student Data=[SID,Name,Gender,Department,CGPA]")
+Student_Data=[21103029,'Kamalpreet Singh Bachhal','Male','Computer Science Engineering Department',9.0]
+print("Student Data=",Student_Data)

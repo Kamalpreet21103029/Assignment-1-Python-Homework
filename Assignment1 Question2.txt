@@ -1,0 +1,9 @@
+#Assignment 1
+#By Kamalpreet Singh 	SID 21103029
+#Question 2-About Finding Tax to be paid by a person
+Gross_Income=float(input("The Person Gross Income is-"))#All amounts are to be filled in Dollars
+Number_of_Dependents=int(input("The Number of Dependents-"))
+Taxable_Income=Gross_Income-10000-(3000*Number_of_Dependents)
+print("Taxable Income is-",Taxable_Income)
+Tax=(Taxable_Income)/5
+print("Tax to be paid by a person is-",Tax)
